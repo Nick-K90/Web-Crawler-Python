@@ -1,0 +1,7 @@
+2018-02-01 21:32:16,658 - ProductSpider - INFO - {'Started: ', datetime.datetime(2018, 2, 1, 21, 32, 16, 658164)}
+2018-02-01 21:33:42,395 - ProductSpider - INFO - {datetime.datetime(2018, 2, 1, 21, 33, 42, 395051), 'Started: '}
+2018-02-01 21:34:04,598 - ProductSpider - INFO - {datetime.datetime(2018, 2, 1, 21, 34, 4, 598090), 'Started: '}
+2018-02-01 21:34:28,217 - ProductSpider - INFO - {datetime.datetime(2018, 2, 1, 21, 34, 28, 217901), 'Started: '}
+2018-02-01 21:34:49,219 - ProductSpider - INFO - {'Started: ', datetime.datetime(2018, 2, 1, 21, 34, 49, 219200)}
+2018-02-01 21:47:02,015 - ProductSpider - INFO - {datetime.datetime(2018, 2, 1, 21, 47, 2, 15754), 'Started: '}
+2018-02-01 21:54:26,721 - ProductSpider - INFO - {'Started: ', datetime.datetime(2018, 2, 1, 21, 54, 26, 721280)}
